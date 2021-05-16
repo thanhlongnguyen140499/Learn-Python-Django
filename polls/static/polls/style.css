@@ -1,0 +1,8 @@
+li a {
+    color: green
+}
+body {
+    background: white url("images/BaiCao.gif") no-repeat;
+    max-height: 500px;
+    max-width: 500px;
+}
